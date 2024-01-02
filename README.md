@@ -18,8 +18,7 @@ This is Script of WhatsApp multi device, working with [`@whiskeysockets/baileys`
 1. [NodeJS](https://nodejs.org/en/download) 16x/17x
 2. [APIKEY](https://apiruulzz.my.id)
 
-## Support My Youtube Channel
-- [RullZY](http://www.youtube.com/@Rullxzz)
+
 
 ### EXAMPLE INSTALL & RUN
 
@@ -61,25 +60,6 @@ export default {
   premium: false, // ubah true jika khusus premium 
 }
 ```
----------
-
-### Thanks To 
-
-**DikaArt**,
-
-**AmirulDev**,
-
-**Allah SWT**,
-
-**Arif**,
-
-[**Rulzz**](https://github.com/khrlmstfa),
-
-**Orang Tua**,
-
-**Semua yang selalu mendukung**
-
----------
 
 ## Contribution
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
