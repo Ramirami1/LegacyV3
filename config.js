@@ -16,11 +16,11 @@ export default {
       antiCall: true, // reject call
       autoread: true, // auto read message
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["62xxxxxxxxxx"], // set owner number on here
+      owner: ["16023344194"], // set owner number on here
       pairing: "",
       sessionName: "session", // for name session
-      prefix: /^[°•π÷×¶∆£¢€¥®™+✓_|/~!?@#%^&.©^]/i,
-      pairingNumber: "", // Example Input : 62xxx
+      prefix: . ,
+      pairingNumber: "16023344194", // Example Input : 62xxx
       pathPlugins: "plugins",
       wm: "*Source:* https://apiruulzz.my.id"
    },
@@ -34,16 +34,16 @@ export default {
    },
    
    APIKeys: {
-   	"https://apiruulzz.my.id": process.env.APIKEY || "rulz"
+   	"https://apiruulzz.my.id": process.env.APIKEY || "baron"
    },
    
    // Set pack name sticker on here
    Exif: {
-      wm: "Rulzz",
+      wm: "Baron",
       packId: "https://apiruulzz.my.id",
       packName: null,
-      packPublish: '         Rulz. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
-      packEmail: "rullskeyy@gmail.com",
+      packPublish: '         Baron. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
+      packEmail: "schwarzebaron@protonmail.com",
       packWebsite: "https://apiruulzz.my.id",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
