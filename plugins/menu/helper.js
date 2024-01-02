@@ -23,7 +23,7 @@ const defaultMenu = {
 Hi %name
 I am an automated system (WhatsApp Bot), I can help to become your personal assistant, the features available are: downloading, image generation, AI, etc.
 
-This wabot was created by rulzz
+This wabot was created by Baron
 
 • Users: %rtotalreg / %totalreg
 • Runtime Bot: %uptime
