@@ -14,7 +14,7 @@
     "Whatsapp",
     "bot"
   ],
-  "author": "Rulzz",
+  "author": "Baron",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
