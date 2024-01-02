@@ -6,9 +6,9 @@ import path from 'path';
 import fs from 'fs';
 import chalk from 'chalk';
 import moment from 'moment-timezone';
-moment.tz.setDefault("Asia/Jakarta").locale("id")
+moment.tz.setDefault("Europe/Berlin").locale("id")
 
-const sekarang = moment.tz('Asia/Jakarta').format('dddd, DD MMMM YYYY')
+const sekarang = moment.tz('Europe/Berlin').format('dddd, DD MMMM YYYY')
 
 export default {
 	options: {
